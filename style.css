@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+    .paren{
+        display: flex;
+        width: 70%;
+        margin:0 auto;
+        font-family: initial;
+
+    }
+    .main-hading{
+        text-align: left;
+        font-size: 50px;
+    }
+    .missionclor{
+        color: tomato;
+    }
+  
+    .paragrap{
+        font-size: 025px;
+    }
+    .explor-button{
+        padding: 20px 30px;
+        border: none;
+        border-radius: 5px;
+        background-color: linear-gradient(rgb(251, 9, 9) rgb(197, 255, 6));
+    }
+    .mypicture image{
+        width: 10px;
+    }
+
+
+
+
+    .mission{
+        width: 300px;
+        border: 1px solid gray;
+        box-shadow: 4px 4px 12px gray;
+        border-radius: 5px;
+    }
+    .mission-image image{
+        width: 100%;
+    }
+
+
+    .vission{
+        width: 300px;
+        border: 1px solid gray;
+        box-shadow: 4px 4px 12px gray;
+        border-radius: 5px;
+    }
+    .vission-image image{
+        width: 100%;
+    }
+
+
+
+
+    .gols{
+        width: 300px;
+        border: 1px solid gray;
+        box-shadow: 4px 4px 12px gray;
+        border-radius: 5px;
+    }
+    .gols-image image{
+        width: 100%;
+    }
+
+
+    .and-section{
+        display: flex;
+    }
